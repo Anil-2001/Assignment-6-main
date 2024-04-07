@@ -12,29 +12,29 @@ table {
 
 td,
 th {
-  border: 3px solid blanchedalmond;
+  border: 3px solid rgb(219, 246, 183);
   text-align: left;
   padding: 8px;
 }
 th {
-  background-color: rgb(141, 133, 196);
+  background-color: rgb(47, 130, 231);
 }
 tr:nth-child(odd) {
-  background-color: lightgray;
+  background-color: rgb(195, 227, 168);
 }
 
 .nav1 {
   background-image: linear-gradient(
     to right,
-    rgb(131, 146, 105),
-    rgb(33, 36, 33)
+    rgb(220, 123, 206),
+    rgb(49, 87, 157)
   );
   height: 85px;
   box-shadow: 1px 2px 3px 1px rgb(97, 72, 51) outset !important;
 }
 .nav {
   font-family: "Open Sans", serif;
-  color: rgb(38, 36, 73);
+  color: rgb(66, 130, 104);
   text-shadow: 1.25px 1.25px;
   font-size: 30px !important;
 }
@@ -42,15 +42,15 @@ a {
   color: azure !important;
 }
 a:hover {
-  color: rgb(194, 194, 194) !important;
+  color: rgb(247, 209, 209) !important;
 }
 html,
 body {
-  background-image: linear-gradient(to right, cornsilk, transparent) !important;
+  background-image: linear-gradient(to right, rgb(154, 200, 231), transparent) !important;
   background-color: rgb(29, 53, 68);
 }
 .abc {
-  background-color: lightgray !important;
+  background-color: rgb(186, 174, 174) !important;
 }
 
 h1,
@@ -59,7 +59,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: darkblue;
+  color: rgb(158, 85, 8);
   text-shadow: 1px 1px;
 }
 
